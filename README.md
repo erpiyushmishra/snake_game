@@ -1,2 +1,2 @@
 # snake_game
-Snake game using Python(OOP)
+##Snake game using Python(OOP)
